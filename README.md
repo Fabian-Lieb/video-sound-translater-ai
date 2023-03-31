@@ -1,2 +1,2 @@
-# video-sound-translater-ai
-video-sound-translater-ai
+# video-sound-translator-ai
+video-sound-translator-ai
