@@ -10,3 +10,5 @@ video-sound-translator-ai
 ```python3
 - pip install -r requirements.txt
 ```
+
+- run main.py

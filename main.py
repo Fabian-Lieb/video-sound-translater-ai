@@ -8,7 +8,7 @@ def main():
     """ run main for download,
     converter and translation
     """
-    path = download_audio("https://www.youtube.com/watch?v=MbiSd-4Zxps")
+    path = download_audio("https://www.youtube.com/watch?v=ORMx45xqWkA")
     result_text = main_translator(path)
     print(result_text)
 
